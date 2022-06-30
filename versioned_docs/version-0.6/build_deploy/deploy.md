@@ -211,7 +211,7 @@ $sh auto.sh restart
 #查看状态
 $sh auto.sh status
 ```
-
+dinky 登陆地址: 服务器ip:8888 （默认端口）
 默认用户名/密码: admin/admin
 
 :::tip 说明
